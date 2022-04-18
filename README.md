@@ -12,3 +12,4 @@ We can pull data from 100+ data sources, model the data, make reports and use cu
 
 I have preapred a Financial Report which gives data insight and progress of sales.
 
+<img src='https://github.com/sumeetcode88/Financial-Report-on-Power-BI/blob/606398c86860672680e825a673e7089e38a562eb/Financial%20Report.jpg'>
